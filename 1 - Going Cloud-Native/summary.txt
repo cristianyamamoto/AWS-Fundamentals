@@ -1,0 +1,45 @@
+This course will introduce you to Amazon Web Services (AWS) core services and infrastructure. Through demonstrations you'll learn how to use and configure AWS services to deploy and host a cloud-native application. 
+
+Early in the course, your AWS instructors will discuss how the AWS cloud infrastructure is built, walk you through Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Lightsail compute services. They'll also introduce you to networking on AWS, including how to set up Amazon Virtual Public Cloud (VPC) and different cloud storage options, including Amazon Elastic Block Storage (EBS), Amazon Simple Storage Service (S3) and Amazon Elastic File Service (EFS). Later in the course you'll learn about AWS Database services, such as Amazon Relational Database Service (RDS) and Amazon DynomoDB. Your instructors will also walk you through how to monitor and scale you application on AWS using Amazon CloudWatch and Amazon EC2 Elastic Load Balancing (ELB) and Auto Scaling. Lastly, you'll learn about security on AWS, as well as how to manage costs when using the AWS cloud platform. 
+
+In this course, you won't be required to complete hands-on exercises, but we strongly suggest you take advantage of the AWS Free Tier to follow along as the instructors demonstrate the AWS services. Class forums will also allow you to ask questions and interact with AWS training instructors. After completing this course, you'll have the basic fundamentals to get started on AWS. 
+
+This course has been developed by AWS, and is delivered by AWS technical instructors who teach cloud computing courses around the globe.
+(https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/home/info)
+
+
+Module 1 - Introduction, Infrastructure, and Compute
+    In this Module, you will be introduced to the course and learn about AWS services, infrastructure, and compute services.
+
+    - AWS Overview (What is, Why) (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/yswB0/aws-overview-notes)
+    Cloud computing is the on-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the internet with pay-as-you-go pricing.
+    - AWS Infrastructure Part 1 (Regions)
+    - AWS Infrastructure Part 2 (Availability Zones)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/BRyDI/aws-infrastructure-notes)
+
+    - What is our Sample App? (Corporate directory application)
+    - Introduction to Compute Services on AWS 
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/9CwkQ/compute-services-notes)
+    - Amazon Elastic Compute Cloud (EC2)
+    - Creating a (Web Server) Using Amazon EC2
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/dSxH2/amazon-ec2-notes)
+    - Introduction to Amazon Lightsail
+    - Amazon Lightsail Demonstration
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/NRUpY/amazon-lightsail-notes)
+
+
+Module 2 -  Networking and Storage on AWS
+    In this Module you will learn about Networking and Storage on AWS.
+
+    - Introduction to Module 2: Networking and Storage
+
+    
+
+Module 3 - Databases on AWS
+    In this module we will discuss Database Services on AWS.
+
+Module 4 - Monitoring and Scaling
+    In this module, we will look at monitoring and scaling your application on AWS.
+
+Module 5 - Security, Cost Management, and Course Conclusion
+    In this module, we will look at security and cost management on AWS.
