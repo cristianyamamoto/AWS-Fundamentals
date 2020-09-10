@@ -32,8 +32,17 @@ Module 2 -  Networking and Storage on AWS
     In this Module you will learn about Networking and Storage on AWS.
 
     - Introduction to Module 2: Networking and Storage
+    - Amazon Virtual Private Cloud (VPC) Part 1 (creating a VPC containing a public subnet that contains an EC2 instance and an Internet Gateway that allows external sources to access the subnet)
+    - Amazon Virtual Private Cloud (VPC) Part 2 (creating a private subnet containing an RDS (database) instance and another public and private subnet in a different Availability Zone / adding a Elastic Load Balancer (ELB) so that the client doesn't need to choice an AZ)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/UoY5b/networking-on-aws-notes)
 
-    
+    - Introduction to Storage on AWS (Object-level storage vs Block-level storage)
+    - Amazon Elastic Block Store (Amazon EBS) (Boot and Data Volumes are Independent in relation to EC2 instance)
+    - Amazon Simple Storage Service (Amazon S3) (Object-level storage / S3 Buckets)
+    - Amazon S3 Demonstration (creating a bucket on S3 and uploading a file)
+    - Amazon Elastic File System (Amazon EFS) (Storage outside subnet that can connect with multiple EC2 instances)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/a3BQz/amazon-efs-notes)
+
 
 Module 3 - Databases on AWS
     In this module we will discuss Database Services on AWS.
