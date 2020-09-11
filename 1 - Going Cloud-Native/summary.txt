@@ -11,7 +11,8 @@ This course has been developed by AWS, and is delivered by AWS technical instruc
 Module 1 - Introduction, Infrastructure, and Compute
     In this Module, you will be introduced to the course and learn about AWS services, infrastructure, and compute services.
 
-    - AWS Overview (What is, Why) (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/yswB0/aws-overview-notes)
+    - AWS Overview (What is, Why) 
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/yswB0/aws-overview-notes)
     Cloud computing is the on-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the internet with pay-as-you-go pricing.
     - AWS Infrastructure Part 1 (Regions)
     - AWS Infrastructure Part 2 (Availability Zones)
@@ -32,8 +33,9 @@ Module 2 -  Networking and Storage on AWS
     In this Module you will learn about Networking and Storage on AWS.
 
     - Introduction to Module 2: Networking and Storage
+
     - Amazon Virtual Private Cloud (VPC) Part 1 (creating a VPC containing a public subnet that contains an EC2 instance and an Internet Gateway that allows external sources to access the subnet)
-    - Amazon Virtual Private Cloud (VPC) Part 2 (creating a private subnet containing an RDS (database) instance and another public and private subnet in a different Availability Zone / adding a Elastic Load Balancer (ELB) so that the client doesn't need to choice an AZ)
+    - Amazon Virtual Private Cloud (VPC) Part 2 (creating a private subnet containing an RDS (database) instance and another public and private subnet in a different Availability Zone / adding a Elastic Load Balancer (ELB) so that the client doesn't need to choose an AZ)
     (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/UoY5b/networking-on-aws-notes)
 
     - Introduction to Storage on AWS (Object-level storage vs Block-level storage)
@@ -47,8 +49,41 @@ Module 2 -  Networking and Storage on AWS
 Module 3 - Databases on AWS
     In this module we will discuss Database Services on AWS.
 
+    - Introduction to Module 3: Databases
+
+    - BYODB vs Amazon RDS (Getting rid of heavylifting and just take care of the app optimization, facilitating the DBA life)
+    - Amazon RDS in Detail (creating a MySql database on RDS)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/04yAr/amazon-rds-notes)
+
+    - Amazon DynamoDB (using NoSQL databases)
+    - Amazon DynamoDB Demonstration (creating a table on DynamoDB and populating)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/0rjJt/amazon-dynamodb-notes)
+
 Module 4 - Monitoring and Scaling
     In this module, we will look at monitoring and scaling your application on AWS.
 
+    - Introduction to Module 4: Monitoring and Scaling Our Application
+
+    - Monitoring and Amazon CloudWatch (set alarms, visualize logs and metrics, take automated actions, troubleshoot operational issues and discover insights to optimize applications)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/uQpa1/monitoring-and-amazon-cloudwatch-notes)
+
+    - Load Balancing (automatic traffic distribution to instances with scalability)
+    - Auto Scaling (creating an auto scaling group and a launch configuration)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/Fuzqo/amazon-ec2-auto-scaling-notes)
+
+
 Module 5 - Security, Cost Management, and Course Conclusion
     In this module, we will look at security and cost management on AWS.
+
+    - Introduction to Module 5: Security and Cost Management
+    
+    - Security in AWS (shared responsibility model / AWS takes care of some things and you other things / responsibilities will vary depending on the services / Security of the Cloud vs in the Cloud)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/aNn2J/security-in-aws-notes)
+
+    - Cost Management in AWS (Pricing Caculator, Cost Explorer and Trusted Advisor)
+    (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native/supplement/IB1tX/cost-management-on-aws-notes)
+
+    - Course Wrap Up (this course was focused on served-base solutions)
+    (https://www.aws.training/)
+
+    
