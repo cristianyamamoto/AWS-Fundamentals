@@ -1,0 +1,50 @@
+Welcome to AWS Fundamentals: Addressing Security Risk!
+
+This course will give you an overview of security best practices when developing and managing applications on AWS. The course, created by AWS experts and delivered by AWS Solutions Architects, uses video lectures, hands-on exercise guides, demonstrations, and quizzes to dive deep on concepts about security on AWS. You will learn about the concept of “least privilege” and the AWS Shared Responsibility Model, as well as view demonstrations of Amazon GuardDuty, AWS Secrets Manager, and cross-account access.
+
+We encourage IT professionals and leaders who are interested in learning about best practices for securing an AWS environment and applications developed on AWS to enroll in this course. Before taking this course, we recommend you complete AWS Fundamentals: Going Cloud Native (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native).
+
+Class forums will also allow you to ask questions and interact with AWS training instructors.
+
+
+Module 1 - Introduction
+    We will review some basic concepts such as "least privilege" and the "Shared Responsibility Model." You will learn about AWS compliance programs and look at securing AWS accounts using AWS IAM.
+
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/H0lxf/shared-responsibility)
+    - Shared Responsibility Model 
+    - Compliance
+    - Create an Account
+    - Multiple Accounts
+    - Identity and Access Services (Part 1)
+    - Identity and Access Services (Part 2)
+
+
+Module 2 - Securing your Infrastructure
+    We will focus on securing your infrastructure. We will look at network isolation and endpoint security. We will then look at detective controls such as Amazon CloudTrail as well as AWS Security Hub, Amazon GuardDuty and AWS Config.
+
+    - Introduction to Week 2
+    - Network Isolation-Fort & Bee Hive
+    - Network Isolation VPC
+    - VPC Endpoints and Private Link
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/60iYU/network-isolation)
+
+    - Detective Controls
+    - Auditing
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/aCdFQ/auditing)
+
+    - Monitoring CloudWatch and CloudWatch Logs
+    - Monitoring Guard Duty and Security Hub
+    - Demo of AWS Config
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/6LYA4/monitoring)
+
+
+Module 3 - Data Protection
+    We will focus on data protection. We will look at encryption of data at rest, in motion, and best practices for how to store data within and between various AWS services.
+
+    - Introduction to Week 3
+    - Data Types
+    
+
+Module 4 - Securing your Application
+    We will focus on protecting compute resources such as Amazon EC2 and AWS Lambda as well as managing secrets and finish off the course with a look at the AWS Well-Architected Framework.
+
