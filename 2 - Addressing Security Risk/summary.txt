@@ -43,8 +43,37 @@ Module 3 - Data Protection
 
     - Introduction to Week 3
     - Data Types
-    
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/mHDO0/data-types)
+
+    - Encryption in Transit
+    - Encryption at Rest
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/fuNyS/encryption-in-transit-and-at-rest)
+
+    - Database Encryption
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/lgPJs/database-encryption)
+
+    - Amazon S3
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/owIfA/amazon-s3-default-encryption-for-s3-buckets)
+
+    - EBS Encryption
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/MiXw4/ebs-encryption)
+
+    - Demo of Cross Account Access to S3
+
 
 Module 4 - Securing your Application
     We will focus on protecting compute resources such as Amazon EC2 and AWS Lambda as well as managing secrets and finish off the course with a look at the AWS Well-Architected Framework.
 
+    - Introduction to Week 4
+    - Protecting Compute Resources
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/D7s8o/protecting-compute-resources)
+
+    - Protecting the Endpoints
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/Z7A5a/securing-endpoints)
+
+    - Managing Secrets
+    - Demo of Secrets Manager
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/NPb6k/secrets-manager)
+
+    - Well-Architected Tool (Cost Optimization, Operational Excellence, Reliability, Performance Efficiency, Security)
+    (https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk/supplement/NMCZS/aws-well-architected)
