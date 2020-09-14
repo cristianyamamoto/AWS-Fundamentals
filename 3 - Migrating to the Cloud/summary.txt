@@ -1,0 +1,100 @@
+This four week course focuses on migrating workloads to AWS.  We will focus on  analyzing your current environment, planning your migration, AWS services that are commonly used during your migration, and the actual migration steps.  
+
+Hands-on labs are available, though not required for this class.  Access to the labs is limited to paid enrolled students.  You can audit this  course without taking the labs.  As we dive into each of the services covered in this class, there will be links to documentation where you can find example applications and code samples.
+
+If you are new to AWS, we strongly suggest that you take “AWS Fundamentals: Going Cloud Native” (https://www.coursera.org/learn/aws-fundamentals-going-cloud-native) course available on Coursera to provide an introduction to AWS concepts and services.
+
+
+Module 1 - General Migration Concepts (Groundwork)
+
+- Welcome to AWS Fundamentals: Migrating to the Cloud
+(https://www.coursera.org/learn/aws-fundamentals-cloud-migration/supplement/wW2cJ/welcome-to-aws-fundamentals-migrating-to-the-cloud)
+
+- Introduction to Week 1
+
+- Defining what we mean by Migration (moving data, application or other business elements to a cloud computing environment)
+(Five phases: migration preparation and business planning (1rst), portfolio discovery and planning (2nd), designing, migrating and validating applications (3rd and 4th) and operate (5th))
+
+- Migration Preparation and Business Planning (Phase 1)
+- Portfolio Discovery and Planning (Phase 2)
+- Design, Migration and Application Validation (Phase 3 & 4)
+- Operate (Phase 5)
+
+- Cloud Adoption Framework - Hybrid Environments
+
+- What are we hoping to get out of this class?
+
+- Lab 0 (not a lab) Intro and Rehost (lift and shift)
+- Lab 0 (not a lab) Re-Platform (lift, tinker and shift)
+- Lab 0 (not a lab) the other 4 "R"s (Repurchase, Refactor, Retire, Retain)
+
+(https://www.coursera.org/learn/aws-fundamentals-cloud-migration/supplement/udC2y/week-1-readings-resources)
+
+
+Module 2 - Begin planning
+
+- Introduction to Week 2
+
+- Scaling Considerations
+- High Availability
+- Considerations with Migrating DB vs Applications
+- AWS Server Migration Services
+- VM Import and VM on AWS (Server Migration Service)
+
+- Introduce AWS Migration Hub
+- AWS Application Discovery Service
+- Introduction All Labs
+
+- Lab 1 Introduction 
+(https://labs.vocareum.com/main/main.php?m=editor&asnid=55456&stepid=55457&hideNavBar=1)
+
+- Multi-environment Security and Communications
+- Data Considerations When Migrating
+
+- Lab 2 Introduction - Backing up to Amazon S3
+(https://labs.vocareum.com/main/main.php?m=editor&asnid=55598&stepid=55599&hideNavBar=1)
+
+(https://www.coursera.org/learn/aws-fundamentals-cloud-migration/supplement/HZJDa/week-2-readings-resources)
+
+
+Module 3 - Storage and networking
+
+- Introduction to Week 3
+
+- Amazon EFS, Amazon EBS, & Amazon S3
+- Storage - AWS Snowball & AWS Snowmobile
+- AWS Storage Gateway and AWS DataSync
+- Storage - AWS DMS Overview (AWS Database Migration Service)
+- Storage - AWS DMS Core Features
+- Storage Schema Conversion (AWS SCT or Schema Conversion Tool)
+- Storage - Amazon Aurora (Serverless)
+
+- AWS Direct Connect & Amazon Route 53
+
+- Lab 3 Introduction
+(https://labs.vocareum.com/main/main.php?m=editor&asnid=57345&stepid=57348&hideNavBar=1)
+- Deployment Strategies
+
+(https://www.coursera.org/learn/aws-fundamentals-cloud-migration/supplement/uiRA9/week-3-readings-resources)
+
+
+Module 4 - Automate
+
+- Introduction to Week 4
+- Automation - AWS API Centricity
+- AWS System Manager & AWS Cloud Formation
+
+- Overview and TSO Logic
+- Migration Tools - Cloud Endure
+
+- Lab 4 Introduction
+ (Create a New CloudEndure Project, Install the CloudEndure Agent on the Application Instance, Install the CloudEndure Agent on the Database Instance and Ghost configuration)
+(https://labs.vocareum.com/main/main.php?m=editor&asnid=79621&stepid=79622&hideNavBar=1)
+- Migration Acceleration Program (MAP)
+
+- Recap - Migration Types (Six R's, Rehost, Replatform, Repurchase, Reafactor, Retire, Retain)
+- Next Steps - Partners
+
+(https://www.coursera.org/learn/aws-fundamentals-cloud-migration/supplement/oAvg2/week-4-readings-resources)
+
+- Class Wrap Up
