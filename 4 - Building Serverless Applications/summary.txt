@@ -1,0 +1,39 @@
+This course will introduce you to Amazon Web Services (AWS) serverless architecture. Through demonstrations and hands-on exercises you'll learn skills in building and deploying serverless solutions. 
+
+Using real-world examples of a serverless website and chat bot, you'll build upon your existing knowledge of the AWS cloud to take advantage of the benefits of modern architectures for greater agility, innovation, and lower total cost of ownership across a range of AWS services, including AWS Lambda, Amazon API Gateway, Amazon DynamoDB, and Amazon Lex.
+
+In this course, you'll have the option to complete hands-on exercises. We strongly suggest you take advantage of the AWS Free Tier to follow the lab exercises provided by throughout the course. Be aware that any services used outside of the free tier may result in you incurring charges through your AWS account. Class forums will also allow you to ask questions and interact with AWS training instructors. After completing this course, you'll have the knowledge and skills to build serverless solutions on AWS. 
+
+This course has been developed by AWS, and is delivered by AWS technical instructors who teach cloud computing courses around the globe.
+
+
+Module 1 - Amazon Lex and Amazon S3 (Creating a Serverless Website)
+
+- Welcome to AWS Fundamentals: Creating a Serverless Bot
+- Meet the Instructors
+
+- What are we Building?
+- What do we mean by Serverless Computing? (No Server Management, Flexible Scaling, Pay for Value, Automade High Availability)
+
+- Amazon Lex (Automatic Speech Recognition, Natural Language Understanding, Text-to-speack(Amazon Polly))
+- Amazon Lex Walkthrough Part 1 (building a chatbot from the samples on AWS)
+- Amazon Lex Walkthrough Part 2 (testing chatbot)
+- Exercise 1.1 Introduction
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/rn0YB/exercise-1-1-creating-a-simple-bot-with-lex)
+
+- Creating a Serverless Website with Amazon S3
+- Creating a Serverless Website with S3 Demo
+
+- Exercise 1.2 Introduction
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/6CVIl/exercise-1-2-creating-a-s3-bucket-and-configuring-as-a-static-website)
+
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/55wE8/week-1-readings-resources)
+
+
+Module 2 - 
+
+
+Module 3 - 
+
+
+Module 4 - 
