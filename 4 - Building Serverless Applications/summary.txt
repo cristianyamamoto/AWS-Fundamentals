@@ -18,22 +18,57 @@ Module 1 - Amazon Lex and Amazon S3 (Creating a Serverless Website)
 - Amazon Lex (Automatic Speech Recognition, Natural Language Understanding, Text-to-speack(Amazon Polly))
 - Amazon Lex Walkthrough Part 1 (building a chatbot from the samples on AWS)
 - Amazon Lex Walkthrough Part 2 (testing chatbot)
-- Exercise 1.1 Introduction
+- Exercise 1.1 Introduction (Creating a simple bot with lex)
 (https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/rn0YB/exercise-1-1-creating-a-simple-bot-with-lex)
 
 - Creating a Serverless Website with Amazon S3
 - Creating a Serverless Website with S3 Demo
 
-- Exercise 1.2 Introduction
+- Exercise 1.2 Introduction (Creating a S3 bucket and configuring as a static website)
 (https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/6CVIl/exercise-1-2-creating-a-s3-bucket-and-configuring-as-a-static-website)
 
 (https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/55wE8/week-1-readings-resources)
 
 
-Module 2 - 
+Module 2 - Amazon CloudFront and Amazon API Gateway (Taking to the back-end)
+
+- Introduction to Week 2
+
+- Introduction to Amazon CloudFront (Content Delivery Networks)
+- Amazon CloudFront Demo
+
+- Exercise 2.1 Introduction (Creating a CloudFront Distribution)
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/3f74D/exercise-2-1-creating-a-cloudfront-distribution)
+
+- Introduction to Amazon API Gateway and Demo (Building an API gateway mock with CORS)
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/4VZFE/exercise-2-2-amazon-api-gateway)
+
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/dQgxj/week-2-readings-resources)
 
 
-Module 3 - 
+Module 3 - IAM, AWS Lambda and DynamoDB 
+
+- Introduction to Week 3
+
+- AWS Identity Access Management (IAM)
+
+- Introduction to Serverless Computing with AWS Lambda Part 1 (much simpler than a served-based - VPC with ELB and EC2 instances across 2 AZs)
+- Introduction to Serverless Computing with AWS Lambda Part 2 
+- AWS Lambda Demo Part 1
+- AWS Lambda Demo Part 2
+
+- Exercise 3.1 Introduction (Creating an AWS Lambda Function)
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/YlppW/exercise-3-1-creating-an-aws-lambda-function)
+
+- Introduction to Amazon DynamoDB Part 1
+- Introduction to Amazon DynamoDB Part 2 (Demo)
+
+- Exercise 3.2 Introduction (Creating a DynamoDB table, enhancing the Lambda function)
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/Bkncm/exercise-3-2-amazon-dynamodb)
+
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/ccsS2/week-3-readings-resources)
 
 
-Module 4 - 
+Module 4 - Extending our App (Making Amazon Lex smarter)
+
+- 

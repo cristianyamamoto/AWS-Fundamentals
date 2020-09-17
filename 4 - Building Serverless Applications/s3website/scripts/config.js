@@ -1,1 +1,1 @@
-var G_API_GATEWAY_URL_STR = null;
+var G_API_GATEWAY_URL_STR = "https://of9cg3kkn3.execute-api.us-east-1.amazonaws.com/test";
