@@ -71,4 +71,17 @@ Module 3 - IAM, AWS Lambda and DynamoDB
 
 Module 4 - Extending our App (Making Amazon Lex smarter)
 
-- 
+- Introduction to Week 4
+
+- Extending Our App Part 1 (validation of slot values with Lex and Lambda)
+- Extending Our App Part 2 (lambda function and session attributes)
+- Adding a Channel (making chatbot on facebook messenger)
+
+- Exercise 4.1 Introduction (Making Amazon Lex Smarter)
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/lqiYG/exercise-4-1-make-amazon-lex-smarter)
+
+- Course Wrap Up
+
+(https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/supplement/p44se/week-4-readings-resources)
+
+
